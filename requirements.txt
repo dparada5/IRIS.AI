@@ -1,0 +1,14 @@
+Requirements
+
+📦 Libraries Used:
+    torch: The core library for PyTorch, used for processing neural networks.
+    torchvision: Used for computer vision tasks, such as image transformations.
+    opencv-python: A library for real-time image and video processing.
+    pillow: A library for image manipulation and processing.
+    transformers: Used for loading and utilizing pretrained machine learning models.
+    numpy: A fundamental package for numerical computations, especially for handling matrices and arrays.
+      
+🤖 Artificial Intelligence (AI) Used:
+    Repository: https://huggingface.co/ElenaRyumina/face_emotion_recognition/tree/main
+    * FER_dinamic_LSTM_Aff-Wild2.pt
+    * FER_static_ResNet50_AffectNet.pt
