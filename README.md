@@ -11,7 +11,7 @@
   <li>Install the necessary dependencies by running the following command in your terminal or CMD:</li>
   
 ```bash
-pip install torch torchvision opencv-python pillow opencv-python transformers numpy
+pip install torch torchvision opencv-python pillow opencv-python transformers numpy mediapipe
 ```
   
   <li>Ensure that your camera is connected and functioning properly if you want to use the live capture option.</li>
