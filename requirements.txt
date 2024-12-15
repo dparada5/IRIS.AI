@@ -7,6 +7,7 @@ Requirements
     pillow: A library for image manipulation and processing.
     transformers: Used for loading and utilizing pretrained machine learning models.
     numpy: A fundamental package for numerical computations, especially for handling matrices and arrays.
+    mediapipe: An open-source framework to perform computer vision inference over arbitrary sensory data such as video or audio.
       
 🤖 Artificial Intelligence (AI) Used:
     Repository: https://huggingface.co/ElenaRyumina/face_emotion_recognition/tree/main
