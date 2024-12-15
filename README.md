@@ -29,7 +29,17 @@ pip install torch torchvision opencv-python pillow opencv-python transformers nu
 <p>Once you've installed the necessary libraries, you can run the program to capture emotions in real-time using your camera.</p>
 <ol>
   <li>Open your terminal or CMD in the directory where the Python script is located.</li>
-  <li>Run the script with the following command:</li>
+  <li>Create the enviroment:</li>
+
+```bash
+python -m venv "Carpet_Name"
+```
+  <li>Run the enviroment:</li>
+
+```bash
+python "Carpet_Name"/bin/activate
+```  
+<li>Run the script with the following command:</li>
 
 ```bash
 python camera_main.py
