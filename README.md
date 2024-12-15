@@ -50,6 +50,9 @@ python camera_main.py
 ## 🎬 Video File
 <p>If you want to analyze a pre-recorded video, you can provide the path to the video file when running the program:</p>
 
+To choose your video edit in the code line 302:
+cap = cv2.VideoCapture('EDIT_HERE.mp4')
+
 ```bash
 python video_main.py
 ```
